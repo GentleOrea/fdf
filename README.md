@@ -6,10 +6,12 @@ z) par des segments. Les coordonnées du terrain seront stockées dans un fichie
 paramètre.
 
 Chaque nombre correspond à un point dans l’espace :
+
 • La position horizontale correspond à son abscisse.
 • La position verticale correspond à son ordonnée.
 • La valeur correspond à son altitude.
 
 ![alt text](https://github.com/GentleOrea/fdf/blob/master/png/img1.png)
 ![alt text](https://github.com/GentleOrea/fdf/blob/master/png/img2.png)
+
 ![alt text](https://github.com/GentleOrea/fdf/blob/master/png/img3.png)
